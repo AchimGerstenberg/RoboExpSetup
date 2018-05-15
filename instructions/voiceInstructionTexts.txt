@@ -1,0 +1,39 @@
+Welcome, this experiment is conducted without direct personal interactions. You will be guided through the experiment by prerecorded voice and video as well as text instructions.
+
+Please close the door.
+
+Please go to the programming booth.
+
+Please do not forget to load your code onto the robot and test it regurarly.
+
+We recommend to test your code soon.
+
+You have received a new instruction on the instruction screen.
+
+Do you want help with the syntax?
+
+Watch the mouse cursor for a hint.
+
+A semicolon is missing. Watch the mouse cursor for a hint.
+
+A bracket is missing. Watch the mouse cursor for a hint.
+
+There is a spelling mistake. Watch the mouse cursor for a hint.
+
+Are you ready to start the robot?
+
+Start the robot in three, two, one, now.
+
+The robot is placed incorrectly.
+
+I can only answer to questions with yes or no.
+
+yes
+
+no
+
+Please wait a moment and do nothing.
+
+You can now carry on.
+
+Please connect the robot.
